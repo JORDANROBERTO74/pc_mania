@@ -24,7 +24,7 @@ export const storeData = {
       'En PCMania, priorizamos la calidad, la confiabilidad y el soporte técnico experto. Nuestro equipo está comprometido a ofrecerte las mejores soluciones para todas tus necesidades tecnológicas.'
   },
   contact: {
-    email: 'pcmania185@gmail.com',
-    phone: '(591) 781-54345'
+    email: 'example@gmail.com',
+    phone: '(591) 77777777'
   }
 }
