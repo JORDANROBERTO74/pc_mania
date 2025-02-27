@@ -39,7 +39,7 @@ Thank you for visiting PCMania!
 
 <br />
 
-#### Spanish version
+#### Versión en español
 
 <div align="center"><strong>PCMania - Tienda Online de Componentes y Accesorios de Computadora</strong></div>
 <div align="center">Construido con el enrutador de aplicaciones Next.js 14</div>
