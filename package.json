@@ -1,0 +1,13 @@
+{
+  "name": "pcmania",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prepare": "husky install",
+    "export": "next export",
+    "deploy": "next build && next export && gh-pages -d out"
+  }
+}
